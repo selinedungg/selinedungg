@@ -1,9 +1,10 @@
 ### hi there 👋
 
  - 🦲 i'll get bold someday
+ - 🌅 i like sunrises and sunsets
  - 🍵 if matcha tastes like grass then i am a cow
  - 🧋 i also like boba
- -  🌅 i like sunrises and sunsets
+
 
 <!--
 **selinedungg/selinedungg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
